@@ -1,3 +1,5 @@
+Created by [Stephen McDonald](http://twitter.com/stephen_mcd)
+
 Replacement for jquery.ui.accordion to avoid dealing with
 jquery.ui theming.
 
